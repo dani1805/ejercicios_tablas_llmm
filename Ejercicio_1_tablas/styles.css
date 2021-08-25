@@ -1,0 +1,42 @@
+
+table {
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+    background-color: gray;
+    padding: 0.3em;
+    text-align: center;
+}
+
+tbody tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+.age {
+    text-align: right;
+}
+
+tbody tr:nth-child(even):hover {
+    background-color: grey;
+}
+
+* {
+    padding: 0.4em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
